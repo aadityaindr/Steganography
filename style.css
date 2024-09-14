@@ -21,7 +21,7 @@ body {
 img, canvas {
     height: 300px;
     width: 300px;
-    margin: 20px;
+    
     border: none;
     background-color: transparent;
 }
