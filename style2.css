@@ -1,6 +1,6 @@
 /* style.css */
 body {
-    background-image: url('D:/stag/Steganography-Thumbnail.png');
+    background-image: url('https://www.tecsec.co.uk/wp-content/uploads/Steganography-Thumbnail.png');
     background-size: cover; /* Ensures the image covers the entire background */
     background-position: center; /* Centers the image */
     background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -13,6 +13,8 @@ body {
     flex-direction: column;
     font-family: Arial, sans-serif;
 }
+
+
 
 
 
