@@ -11,6 +11,14 @@ body {
     min-height: 100vh;
     margin: 0;
 }
+.responsive-image {
+    width: 100%; /* Make image responsive */
+    height: auto; /* Maintain aspect ratio */
+    max-height: 650px; /* Set maximum height to avoid excessive scaling */
+    object-fit: cover; /* Ensure image covers the container */
+}
+
+
 
 
 .hidden {
