@@ -34,9 +34,7 @@ img, canvas {
     background-color: transparent;
 }
 
-.originalImage {
-    margin: 20px;
-}
+
 
 /* Styling for canvas */
 .imageCanvas {
